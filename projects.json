@@ -1,0 +1,40 @@
+{
+	"projects": [
+		{
+			"name": "tenorwisp",
+			"github": "https://github.com/jackwimbish/tenorwisp",
+			"video": "https://www.loom.com/share/52187e4d4cb143d4a6c140b867104da8",
+			"description": "Mobile app in Flutter experimenting with an AI-driven discussion forum."
+		},
+		{
+			"name": "OpenBattlefields",
+			"github": "https://github.com/jackwimbish/multiplayercardgame",
+			"video": "https://www.loom.com/share/44066c6bc25a46e1810693948f4ce7ca",
+			"description": "A Hearthstone Battlegrounds-like autobattler card game."
+		},
+		{
+			"name": "Camp Coordinator",
+			"github": "https://github.com/jackwimbish/retreat-platform",
+			"video": "https://www.loom.com/share/d249bcb174e44f0e931a364f3787fcf6",
+			"description": "Plone customized for management of camps and retreats."
+		},
+		{
+			"name": "Adjutant",
+			"github": "https://github.com/jackwimbish/adjutant",
+			"video": "https://www.loom.com/share/74f80779ba43458082f5850b13bb903e",
+			"description": "A desktop app for fetching and curating articles from RSS feeds."
+		},
+		{
+			"name": "WordWise",
+			"github": "https://github.com/jackwimbish/wordwise_v02",
+			"video": "https://www.loom.com/share/d253efa4afec451790070f0c811a0eb8",
+			"description": "A grammarly-like writing app with features for print writers."
+		},
+		{
+			"name": "FoamAI",
+			"github": "https://github.com/bbaserdem/FoamAI",
+			"video": "https://x.com/i/broadcasts/1BRJjmnvbDVGw",
+			"description": "An interface for generating CFD simulations on OpenFOAM from natural language descriptions."
+		}
+	]
+}
